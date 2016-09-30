@@ -9,3 +9,4 @@ We all lead busy lives, so it can be a challenge to find timely and relevant inf
 ![application flow](https://cloud.githubusercontent.com/assets/12015008/19007434/e266c7b6-8719-11e6-9ea6-460f2a83cd68.png)
 
 ### Setup Instructions
+https://github.com/CDSLab/CodeCamp2016/blob/master/Instructions.md
