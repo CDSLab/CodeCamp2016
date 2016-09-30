@@ -40,3 +40,9 @@ Left panel gives a vast range of nodes to drag and connect. This helps to perfor
 
 
 <img width="1147" alt="screen shot 2016-09-30 at 3 23 58 pm" src="https://cloud.githubusercontent.com/assets/7436221/19008712/0cb77328-8722-11e6-8489-6cd007d4ef2f.png">
+
+Three files are added into this github repository. Create three flows.
+- Import **Main flow** into Node -red
+- Import **Weather** flow
+- Import **News** flow
+
