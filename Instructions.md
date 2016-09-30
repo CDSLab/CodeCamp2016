@@ -16,5 +16,5 @@
 <img width="1096" alt="layout 2" src="https://cloud.githubusercontent.com/assets/7436221/19008239/a63cd6a4-871e-11e6-91b5-e36205fa5a26.png">
 
 
-<img width="1096" alt="layout 2" src="https://cloud.githubusercontent.com/assets/7436221/19008239/a63cd6a4-871e-11e6-91b5-e36205fa5a26.png">
+<img width="1130" alt="layout 3" src="https://cloud.githubusercontent.com/assets/7436221/19008276/f0bc53bc-871e-11e6-8886-77da346f061b.png">
 
