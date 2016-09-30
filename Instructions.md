@@ -6,5 +6,6 @@
 
 - Select "Create an App" tile amongst the options. Name the app.
 
+![landing page](https://cloud.githubusercontent.com/assets/7436221/19007912/874b0c90-871c-11e6-905e-fda1cd057766.png)
 
 
