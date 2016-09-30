@@ -18,3 +18,7 @@
 
 <img width="1130" alt="layout 3" src="https://cloud.githubusercontent.com/assets/7436221/19008276/f0bc53bc-871e-11e6-8886-77da346f061b.png">
 
+1. Name your application and give a unique name to your **host**
+
+<img width="1312" alt="screen shot 2016-09-30 at 3 10 13 pm" src="https://cloud.githubusercontent.com/assets/7436221/19008419/071f5432-8720-11e6-8deb-7602f750f371.png">
+
