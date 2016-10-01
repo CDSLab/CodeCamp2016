@@ -37,6 +37,11 @@ For that we need to add a service to this app, which is called "Weather Company 
  
  <img width="669" alt="screen shot 2016-09-30 at 5 46 53 pm" src="https://cloud.githubusercontent.com/assets/7436221/19010514/3082de1e-8736-11e6-9216-b96b7d2bfae4.png">
 
+It will create in few minutes and link itself to the existing app.
+Now your App has to be **Restaged** to reflect the updation.
+
+- Go back to overview of your App and add another service called "Text to Speech" and restage the application.
+
 - Click on the link of your application. You will be taken to **NODE-RED**
 ..Here, you can enter into Node-RED Editor to start making flows.
 Creating flows makes life easier with just dragging and dropping the functional nodes having code or API calls.
