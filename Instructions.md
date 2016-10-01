@@ -63,6 +63,22 @@ Three files are added into this github repository. Create three flows.
 
 Copy each flow from the github file to create flows on you node-red and paste here.
 
+A couple more steps are requrired to get the application up and running. First click on the "text to speech" node and select "US English"
+
+![](https://cloud.githubusercontent.com/assets/8397737/19015255/ab039ce4-87b5-11e6-865b-7a7c26b3c2eb.png)
+
+<img width="494" alt="screen shot 2016-09-30 at 6 17 16 pm" src="https://cloud.githubusercontent.com/assets/8397737/19015276/0a02475e-87b6-11e6-866d-8892ab17b39d.png">
+
+The "name" field can be left blank. Finnally, click on the each link node on the main tab:
+
+
+<img width="174" alt="screen shot 2016-10-01 at 8 57 21 am" src="https://cloud.githubusercontent.com/assets/8397737/19015290/3f16b920-87b6-11e6-96d5-1412e6451f75.png">
+
+and connect to the proper recieve node:
+
+<img width="500" alt="screen shot 2016-10-01 at 9 06 17 am" src="https://cloud.githubusercontent.com/assets/8397737/19015294/57df73e8-87b6-11e6-91bc-0e5a41068ffa.png">
+
+"Outgoing weather" should connect to "Incomming weather" and "Outgoing news" should connect to "Incomming news"
 
 ## Speech to text Microphone application
 - We are using another bluemix application to record our message and send it to our node-red app. Check the link below.
