@@ -6,10 +6,10 @@
 
 3. Select **"Create an App"** tile amongst the options. 
 ..Name the app.
-
+..Select a **web** application.
 <img width="721" alt="layout 1" src="https://cloud.githubusercontent.com/assets/7436221/19008034/5afe953e-871d-11e6-854e-2f104549f1e0.png">
 
--Select a **web** application.
+
 
 
 - Then choose ** Browse Boilerplate ** to choose a **Nodered** boilerplate code.
@@ -69,6 +69,16 @@ Copy each flow from the github file to create flows on you node-red and paste he
 ```
 https://codecamp-mic.mybluemix.net/
 ```
+
+Enter your application link in the text box shown. 
+http://<--host name-->.mybluemix.net/
+
+And record your message like
+```
+**What is the current weather in Chicago.**
+```
+Upload your message and It makes a call to node-red application.
+And speaks out the result.
 
 
 
