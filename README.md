@@ -6,6 +6,7 @@ We all lead busy lives, so it can be a challenge to find timely and relevant inf
 ![codecamp16](https://cloud.githubusercontent.com/assets/12015008/19007253/c430234c-8718-11e6-8ff9-a328229e018a.png)
 
 ### Application Flow
+http://watsondemos.mybluemix.net/
 ![application flow](https://cloud.githubusercontent.com/assets/12015008/19007434/e266c7b6-8719-11e6-9ea6-460f2a83cd68.png)
 
 ### Setup Instructions
