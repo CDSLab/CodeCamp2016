@@ -29,6 +29,14 @@
 
 <img width="1432" alt="screen shot 2016-09-30 at 3 15 24 pm" src="https://cloud.githubusercontent.com/assets/7436221/19008519/c0144a2e-8720-11e6-9234-3457c7db52ea.png">
 
+- Select **Overview** tab on the left to see the detailed view of your application. 
+As we are going to make our own assistance. We can enable it to notify us the temperature/weather of any place on the earth.
+For that we need to add a service to this app, which is called "Weather Company Data". So we select Add a service or API button.
+
+<img width="703" alt="screen shot 2016-09-30 at 5 45 55 pm" src="https://cloud.githubusercontent.com/assets/7436221/19010484/d57c2a3e-8735-11e6-9a3f-a75a004bab70.png">
+ 
+ <img width="669" alt="screen shot 2016-09-30 at 5 46 53 pm" src="https://cloud.githubusercontent.com/assets/7436221/19010514/3082de1e-8736-11e6-9216-b96b7d2bfae4.png">
+
 - Click on the link of your application. You will be taken to **NODE-RED**
 ..Here, you can enter into Node-RED Editor to start making flows.
 Creating flows makes life easier with just dragging and dropping the functional nodes having code or API calls.
