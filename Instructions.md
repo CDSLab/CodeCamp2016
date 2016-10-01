@@ -46,3 +46,16 @@ Three files are added into this github repository. Create three flows.
 - Import **Weather** flow
 - Import **News** flow
 
+<img width="533" alt="screen shot 2016-09-30 at 5 31 54 pm" src="https://cloud.githubusercontent.com/assets/7436221/19010403/425c31fa-8734-11e6-9442-69010121a7d2.png">
+
+Copy each flow from the github file to create flows on you node-red and paste here.
+
+
+## Speech to text Microphone application
+- We are using another bluemix application to record our message and send it to our node-red app. Check the link below.
+```
+https://codecamp-mic.mybluemix.net/
+```
+
+
+
