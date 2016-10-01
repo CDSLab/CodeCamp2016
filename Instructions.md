@@ -87,7 +87,7 @@ https://codecamp-mic.mybluemix.net/
 ```
 
 Enter your application link in the text box shown. 
-http://<--host name-->.mybluemix.net/
+http://<--host name-->.mybluemix.net
 
 And record your message like
 ```
